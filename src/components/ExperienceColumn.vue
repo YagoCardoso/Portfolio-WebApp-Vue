@@ -13,10 +13,7 @@
         <span class="w3-tag w3-teal w3-round">Atual</span>
       </h6>
       <p>
-       Desenvolvendo e manutenindo produtos voltado para Varejo de Serviços (Lavanderia, Estética e Ensino). Também tenho trabalho em um novo projeto com a equipe, utilizando novas ferramentas como: 
-       Vue.js, .Net Core, e a migração no versionamento dos projeto de TFS para Git.
-       No Geral utilizamos a tecnologia .NET Framework para o produto legado. Novos desenvolvimentos estão sendo feitos com .NET Core juntamente vom Vue.js,e tambem um App em Flutter.
-       Conhecimento básico em IIS para montagem e manutenção de ambientes de desenvolvimento e testes e tambem com Azure DevOps.
+     Em 2021, atuei no desenvolvimento e manutenção de produtos para o varejo de serviços, incluindo lavanderias, estéticas e ensino. No final do ano, comecei a trabalhar em um novo projeto com minha equipe, utilizando ferramentas modernas como Vue.js, .Net Core, aplicando metodologias ágeis como TDD e migrando nossos projetos de versionamento do TFS para Git. Em geral, utilizamos a tecnologia .NET Framework para nossos produtos legados, mas estamos implementando novos desenvolvimentos com .NET Core e Vue.js. Em 2022, comecei a trabalhar em produtos mobile utilizando Flutter/Dart com a API em .Net Core e banco de dados SQL Server e também utilizando o firebase para autenticação. Possuo conhecimento básico em IIS para configuração e manutenção de ambientes de desenvolvimento e testes e também trabalho com Azure DevOps.
       </p>
       <hr />
     </div>
