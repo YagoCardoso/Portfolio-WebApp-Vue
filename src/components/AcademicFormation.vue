@@ -6,6 +6,39 @@
       ></i
       >Formação Cursos
     </h2>
+     <div class="w3-container">
+      <h5 class="w3-opacity">
+        <b>Arquitetura de Software</b>
+      </h5>
+      <h6 class="w3-text-teal">
+        <i class="fa fa-calendar fa-fw w3-margin-right"></i>2022 - 2023
+      </h6>
+      <p>
+        Pós-Graduação em Arquitetura de Software
+        FACUMINAS
+      </p>
+      <hr />
+       <div class="w3-container">
+      <h5 class="w3-opacity"><b>Introduction to software testing concepts</b></h5>
+      <h6 class="w3-text-teal">
+        <i class="fa fa-calendar fa-fw w3-margin-right"></i>2022 - 2022
+      </h6>
+      <p>
+       Introduction to software testing concepts - Microsoft
+      </p>
+      <br />
+    </div>
+    </div>
+     <div class="w3-container">
+      <h5 class="w3-opacity"><b>Fundamentos do Git e Azure DevOps</b></h5>
+      <h6 class="w3-text-teal">
+        <i class="fa fa-calendar fa-fw w3-margin-right"></i>2022 - 2022
+      </h6>
+      <p>
+        Fundamentos do Git e Azure DevOps - balta.io
+      </p>
+      <br />
+    </div>
     <div class="w3-container">
       <h5 class="w3-opacity">
         <b>ANÁLISE E DESENV. DE SISTEMA/UNIVERSIDADE PAULISTA(UNIP)</b>
