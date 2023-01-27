@@ -29,7 +29,7 @@
           <i
             class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"
           ></i
-          >hyago.cardosoh@gmail.com
+          >y.maksuell@gmail.com
         </p>
         <p>
           <i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i
